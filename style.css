@@ -18,7 +18,7 @@ body {
   gap: 20px;
 }
 
-/* Keep the figure inside body or header depending on your HTML structure */
+
 figure {
   overflow: hidden;
   width: 180px;
@@ -32,7 +32,7 @@ figure img {
   height: 100%;
   object-fit: cover;
   transform: scale(2.3);
-  object-position: 50% 10%; /* center horizontally, slightly downward */
+  object-position: 50% 10%; 
 }
 
 h1 {
